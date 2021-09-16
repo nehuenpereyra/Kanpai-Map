@@ -1,0 +1,61 @@
+{
+    "titulo": "La Posta del Ángel",
+    "direccion": "Diagonal 74-n° 1584",
+    "horarios": "17:00-3:00",
+    "icono": "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/14925502_663833207127894_1964993258996631913_n.jpg?oh=2967bcdb3f9799a6fbca541a4cc73d0c&oe=5A4C71F4",
+    "portada": "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/14925271_663702120474336_4931105779212769452_n.jpg?oh=144ef09a1f233b6bda2fb99f26f01b9a&oe=5A4DAA0D",
+    "likes": 0,
+    "website": "",
+    "mail": "lapostadelangellp@gmail.com",
+    "servicios" : "Cerveceria · Bar · Restaurante",
+    "descripcion": "Creada en el año 1949, La Posta del Ángel es la primer cerveza Artesanal creada en nuestro país. Se destaca por la excelencia de sus tres estilos, Pale Ale (Rubia), Nut Brown Ale (Colorada) y Taddy Porter (Negra).",
+    "telefonos" : [ "0221 424-1358" ],
+    "promos": [ ],
+    "galeria": [ 
+        "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/17021521_731013433743204_3476229398406010814_n.jpg?oh=eee0cee88c4b95b8dbf444e9d7b1134f&oe=5A4F3DC0", 
+        "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/19029398_782810201896860_9143054949207295703_n.jpg?oh=7b2cb467d27b521ea6a348cf473d3056&oe=5A5695B5",
+        "https://scontent-gru2-2.xx.fbcdn.net/v/t1.0-9/20108343_804492889728591_7187451445092844450_n.jpg?oh=1cd11ced2698a9a0cd7c4aef81480f2c&oe=5A443A90"
+     ],
+    "location": { "latitude": -34.917605, "longitude":  -57.954603 },
+    "redSocial": { "facebook": "https://www.facebook.com/pg/PostadelAngelLP", "instagram":"https://www.instagram.com/lapostadelangel/", "twitter":"https://twitter.com/PostaDelAngel" }
+}
+
+{
+    "titulo": "",
+    "direccion": "",
+    "horarios": "",
+    "icono": "cer/laplata/titulo/icono.png",
+    "portada": "cer/laplata/titulo/portada.png",
+    "likes": 0,
+    "website": "",
+    "mail": "",
+    "servicios" : "",
+    "descripcion": "",
+    "telefonos" : [  ],
+    "promos": [ ],
+    "galeria": [ 
+        "cer/laplata/titulo/galeria/01.png", 
+        "cer/laplata/titulo/galeria/02.png",
+        "cer/laplata/titulo/galeria/03.png"
+     ],
+    "location": { "latitude": -34.917605, "longitude":  -57.954603 },
+    "redSocial": { "facebook": "", "instagram":"", "twitter":"", "whatsapp": "" }
+}
+\n
+{
+    "titulo": "La Julia",
+    "direccion": "Calle 4 bis-n°104",
+    "horarios": "",
+    "icono": "https://poewellnesssolutions.com/wp-content/plugins/lightbox/images/No-image-found.jpg",
+    "portada": "https://s3-media2.fl.yelpcdn.com/bphoto/8FvYAOaO07U0ZS_cznuHDA/o.jpg",
+    "likes": 0,
+    "website": "",
+    "mail": "cervezalajulia@hotmail.com",
+    "servicios" : "Cervecería",
+    "descripcion": "Cerveza Artesanal La Julia es una combinación de arte, ciencia y oficio en estado líquido, soñada en Tolosa y nacida en La Plata.",
+    "telefonos" : [ " 0221 597-1978" ],
+    "promos": [ ],
+    "galeria": [ ],
+    "location": { "latitude": -34.897557, "longitude":  -57.967846 },
+    "redSocial": { "facebook": "https://www.facebook.com/CervezaArtesanalLaJulia/" }
+}

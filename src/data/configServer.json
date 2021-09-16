@@ -1,0 +1,32 @@
+{
+    "ipActual": "http://localhost:3000",
+    "publicidadPromocion": [
+        "/img/laplata/publicidad/galeriaPromocion/01.jpg",
+        "/img/laplata/publicidad/galeriaPromocion/02.jpg",
+        "/img/laplata/publicidad/galeriaPromocion/03.jpg",
+        "/img/laplata/publicidad/galeriaPromocion/04.jpg"
+    ],
+    "listaFiltro":[
+        {
+            "type": "facebook",
+            "name": "Facebook",
+            "endPoint": "/laplata/cervecerias/filtro/facebook"
+        },
+        {
+            "type": "instagram",
+            "name": "Instagram",
+            "endPoint": "/laplata/cervecerias/filtro/instagram"
+        },
+        {
+            "type": "whatsapp",
+            "name": "Whatsapp",
+            "endPoint": "/laplata/cervecerias/filtro/whatsapp"
+        },
+        {
+            "type": "minimo",
+            "name": "Camino Minimo",
+            "endPoint": "/laplata/cervecerias/filtro/minimo"
+        }
+    ]
+
+}
